@@ -2,5 +2,6 @@
 
 apt update 
 apt upgrade -y
-
-python pari.py
+cd forecast_V1
+cd forecat
+python v1.py
