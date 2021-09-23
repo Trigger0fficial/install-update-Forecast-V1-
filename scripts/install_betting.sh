@@ -4,6 +4,7 @@ echo '--- Начало установки ---'
 
 apt update
 apt upgrade -y
+pkg install git
 apt install python
 apt install python3
 
