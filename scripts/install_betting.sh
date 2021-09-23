@@ -9,8 +9,9 @@ apt install python3
 
 echo '--- Осталось совсем немного ---'
 
-git clone https://github.com/Trigger06/sport_bitting
-cd sport_bitting
+git clone https://github.com/Trigger0fficial/forecast_V1.git
+cd forecast_V1
+cd forecast
 
 echo '--- Установка прошла успешно! ---'
 
